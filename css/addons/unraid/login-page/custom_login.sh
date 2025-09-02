@@ -1,6 +1,6 @@
 #!/bin/bash
 TYPE="retro-terminal"
-THEME="green.css"
+THEME="red.css"
 DOMAIN="theme-park.dev"
 SCHEME="https"
 ADD_JS="true"
